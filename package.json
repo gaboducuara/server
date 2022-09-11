@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Ejercicio de programacion en el back-end y front-end para la compañia Bsale. Cargo Desarrollador Junior.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Gabriel Mancilla Ducuara.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
